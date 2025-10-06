@@ -23,7 +23,7 @@ Welcome to my GitHub profile!...
 
 ## 🏢 Organizations
 
-- **Wipro Limited (formerly Eximius Design India Pvt. Ltd)** – Bangalore  
+- **Wipro Limited** – Bangalore  
   *QA & DevOps Engineer | Apr 2021 – Present*  
   > Initially joined Eximius Design in April 2021, which later merged with Wipro in August 2021. Continued in the same role under Wipro till to date.
 

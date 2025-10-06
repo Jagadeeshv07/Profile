@@ -62,8 +62,3 @@ Welcome to my GitHub profile!...
 - Participated in **requirement analysis, test planning, and bug reporting**.
 
 ---
-
-## Let’s Connect  
-
-- **LinkedIn:** [linkedin.com/in/jagadeeshv07](https://linkedin.com/in/jagadeeshv07)  
-- **GitHub:** [github.com/Jagadeeshv07](https://github.com/Jagadeeshv07) 

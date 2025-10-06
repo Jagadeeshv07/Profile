@@ -25,7 +25,7 @@ Welcome to my GitHub profile!...
 
 - **Wipro Limited (formerly Eximius Design India Pvt. Ltd)** – Bangalore  
   *QA & DevOps Engineer | Apr 2021 – Present*  
-  > Initially joined Eximius Design, which later merged with Wipro in Aug 2021. Continued in the same role under Wipro.
+  > Initially joined Eximius Design in April 2021, which later merged with Wipro in August 2021. Continued in the same role under Wipro till to date.
 
 - **Capgemini Technologies** – Navi Mumbai  
   *QA Engineer (Manual) | Oct 2018 – Feb 2020*
@@ -60,17 +60,6 @@ Welcome to my GitHub profile!...
 - Managed bug life cycle using Jira.
 - Worked closely with developers to **reproduce, document, and verify bug fixes**.
 - Participated in **requirement analysis, test planning, and bug reporting**.
-
----
-
-## 🏢 Organizations
-
-- **Wipro Limited** – Bangalore  
-  *QA & DevOps Engineer | Apr 2021 – Present*  
-  > Initially joined Eximius Design in April 2021, which later merged with Wipro in August 2021. Continued in the same role under Wipro till to date.
-
-- **Capgemini Technologies** – Navi Mumbai  
-  *QA Engineer (Manual) | Oct 2018 – Feb 2020*
 
 ---
 

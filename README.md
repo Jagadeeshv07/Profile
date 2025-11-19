@@ -1,6 +1,6 @@
 # Hi, I’m Jagadeesh  
 
-DevOps & QA Engineer with 5 years 10 months of experience in designing, automating, and managing cloud and testing environments. Hands-on expertise in AWS, CI/CD pipelines, Terraform, Ansible, Jenkins, and Docker. Skilled in automation testing using Robot Framework and Python, with strong experience in integrating QA processes into DevOps workflows. Reduced build time by 30%, Automated 150+ test cases. 
+DevOps & QA Engineer with 6 years of experience in designing, managing cloud and testing environments. Hands-on expertise in AWS, CI/CD pipelines, Terraform, Ansible, Jenkins, and Docker. Skilled in requirement analysis, test planning, test case execution, defect tracking, and ensuring product quality, with strong experience in integrating QA processes into DevOps workflows.  
 
 Welcome to my GitHub profile!...  
 
@@ -17,7 +17,7 @@ Welcome to my GitHub profile!...
 - **Operating Systems** : Linux, Ubuntu, Windows
 - **Webservers** : Apache, Tomcat, Nginx
 - **Test Management Tools** : Polarion, Jira.
-- **Testing Tools** : Robot Framework, Pycharm, ADB Commands. 
+- **Testing Tools** : ADB Commands. 
 
 ---
 
@@ -28,7 +28,7 @@ Welcome to my GitHub profile!...
   > Initially joined Eximius Design in April 2021, which later merged with Wipro in August 2021. Continued in the same role under Wipro till to date.
 
 - **Capgemini Technologies** – Navi Mumbai  
-  *QA Engineer (Manual) | Oct 2018 – Feb 2020*
+  *QA Engineer | Oct 2018 – Feb 2020*
 
 ---
 
@@ -45,7 +45,7 @@ Welcome to my GitHub profile!...
 - working on Source code Management (SCM) tools like Subversion (SVN) and GIT.
 - Utilized Cloud Watch to monitor resources such as EC2, Amazon RDS services, EBS volumes, to set alarms for notification or automated actions and to monitor logs for a better understanding and operation of the system.
 - Troubleshooting errors related to services, applications, checking endpoints of applications.
-- Designed and automated 150+ test cases using Robot Framework and reduced manual regression effort by 40%.
+- Designed test cases using AI tools.
 - Performed device-level debugging using ADB commands, and tested Bluetooth/USB peripherals.
 - Used Ansible to automate Configuration management.
 - Maintain GIT Repositories, Handling Releases and Branching activities for GIT.
